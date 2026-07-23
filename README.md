@@ -1,1 +1,1 @@
-# NLP_Lab
+# NLP_Techniques
